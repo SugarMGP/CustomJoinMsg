@@ -1,8 +1,8 @@
-package io.github.sugarmgp;
+package io.github.sugarmgp.cjm;
 
-import io.github.sugarmgp.Command.MainCommand;
-import io.github.sugarmgp.Listener.PlayerJoinEvent;
-import io.github.sugarmgp.Listener.PlayerQuitEvent;
+import io.github.sugarmgp.cjm.Command.MainCommand;
+import io.github.sugarmgp.cjm.Listener.PlayerJoinEvent;
+import io.github.sugarmgp.cjm.Listener.PlayerQuitEvent;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 

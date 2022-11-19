@@ -1,6 +1,6 @@
-package io.github.sugarmgp.Command;
+package io.github.sugarmgp.cjm.Command;
 
-import io.github.sugarmgp.CustomJoinMsg;
+import io.github.sugarmgp.cjm.CustomJoinMsg;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

@@ -1,6 +1,6 @@
 name: CustomJoinMsg
 version: '${project.version}'
-main: io.github.sugarmgp.CustomJoinMsg
+main: io.github.sugarmgp.cjm.CustomJoinMsg
 api-version: 1.13
 authors: [ SugarMGP ]
 depend:
