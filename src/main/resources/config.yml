@@ -1,0 +1,9 @@
+# Supports PAPI variables and color codes.
+
+# Whether to enable custom join message
+enableJoinMsg: true
+joinMessage: '§ePlayer §b%player_name%§e has entered the server!'
+
+# Whether to enable custom quit message
+enableQuitMsg: true
+quitMessage: '§ePlayer §b%player_name%§e has left the server!'

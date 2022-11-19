@@ -1,0 +1,14 @@
+name: CustomJoinMsg
+version: '${project.version}'
+main: io.github.sugarmgp.CustomJoinMsg
+api-version: 1.13
+authors: [ SugarMGP ]
+depend:
+  - PlaceholderAPI
+commands:
+  customjoinmsg:
+    aliases: [ cjm ]
+    description: Plugin Main Command
+permissions:
+  cjm.commands.use:
+    default: op
